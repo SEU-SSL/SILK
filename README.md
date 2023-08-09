@@ -16,3 +16,8 @@ The following describes what each file does.
 -*seed_eval.py:* Count the number of times each constraint is solved and calculate the stuck probability (*stuck_pr*)
 
 -*run_qsym_afl.py:* Call the QSYM interface, QSYM can be replaced by other concolic executors
+
+
+## Published Work
+
+[SILK: Constraint-guided Hybrid Fuzzing](https://ieeexplore.ieee.org/document/10197007) (COMPSAC 2023)
